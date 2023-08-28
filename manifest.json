@@ -1,0 +1,17 @@
+{
+    "short_name": "Piolin Bird",
+    "name": "Piolin Bird",
+    "icons": [
+      {
+        "src": "img/favicon.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "description":"Piolin Bird in Phaser",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "scope": "/"
+  }
