@@ -1,4 +1,4 @@
-# Trabajo 02 Javascript - Piolin-Bird-Phaser-Videogame
+# Javascript - Piolin-Bird-Phaser-Videogame
 
    ![Badge en Desarollo](https://img.shields.io/badge/STATUS-Desarrollo%20Completo-blue)
    ![Badge](https://img.shields.io/pypi/status/aiogram.svg?style=flat-square)
