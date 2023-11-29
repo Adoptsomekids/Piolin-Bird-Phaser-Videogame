@@ -3,7 +3,7 @@
    ![Badge en Desarollo](https://img.shields.io/badge/STATUS-Desarrollo%20Completo-blue)
    ![Badge](https://img.shields.io/pypi/status/aiogram.svg?style=flat-square)
 
-_Emilio Josafat Giacomo Quintero - Programación para Internet 2023B_
+_Emilio Josafat Giacomo Quintero 2023B_
 
 ## Comenzando 🚀
 
@@ -23,6 +23,20 @@ JS Libraries
 Phaser
 Live Server
 ```
+
+### Run it
+1. Clone this repository or click Download ZIP in right panel and extract it 
+```
+git clone https://github.com/Adoptsomekids/Piolin-Bird-Phaser-Videogame.git
+```
+2. Install [Http-Server](https://www.npmjs.com/package/http-server)
+```
+npm install http-server -g
+```
+3. Run the http-server from the repository's directory
+```
+http-server
+``` 
 
 ## Despliegue 📦
 
