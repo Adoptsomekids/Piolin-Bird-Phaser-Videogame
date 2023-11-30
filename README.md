@@ -1,9 +1,8 @@
-# Javascript - Piolin-Bird-Phaser-Videogame
+# Piolin Bird game in Phaser 3 ![pio5](https://github.com/Adoptsomekids/Piolin-Bird-Phaser-Videogame/assets/83385717/a944b848-a626-499a-b51f-85eb47059a38)
+
 
    ![Badge en Desarollo](https://img.shields.io/badge/STATUS-Desarrollo%20Completo-blue)
    ![Badge](https://img.shields.io/pypi/status/aiogram.svg?style=flat-square)
-
-_Emilio Josafat Giacomo Quintero 2023B_
 
 ## Comenzando 🚀
 
@@ -42,10 +41,10 @@ http-server
 
 _Open with live server desde index.html_
 
-![image](https://github.com/Adoptsomekids/Piolin-Bird-Phaser-Videogame/assets/83385717/3e27e890-b134-4b68-a13f-abbfca7da058)
+![image](https://github.com/Adoptsomekids/Piolin-Bird-Phaser-Videogame/assets/83385717/fc8d9231-d44f-4123-80de-bf4209a433bf)
 
 
-_Corre en live server (NO debugear desde terminal local)_
+_Correr en live server (NO debugear desde terminal local)_
 
 
 ![image](https://github.com/Adoptsomekids/Piolin-Bird-Phaser-Videogame/assets/83385717/aba71a99-e5fc-45b4-9092-e82aa4373d07)
